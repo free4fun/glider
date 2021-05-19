@@ -1,0 +1,8 @@
+.board {
+  table-layout: fixed;
+  width: 320px;
+  height: 320px;
+  border: 0px none rgba(0,0,0,0);
+  display: block;
+  border-collapse: collapse;
+}
