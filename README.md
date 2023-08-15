@@ -1,7 +1,7 @@
-====A ReactJS game of life====
-=== This is a WIP ===
+# A ReactJS game of life
+## This is a WIP
 
-== Instructions ==
+## Instructions
 
 npm install
 npm start
